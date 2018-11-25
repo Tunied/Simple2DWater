@@ -1,6 +1,10 @@
 ## Simple 2D Water Shader
 
+
+
 [中文传送门](http://oldking.wang/7e726530-f07b-11e8-9356-679d14d5bec9/)
+
+inspire by [则卷大明's Unity3D-移动平台简单水效果的实现](http://gad.qq.com/article/detail/25973) and [AoE2HD](https://store.steampowered.com/app/221380/Age_of_Empires_II_HD/)
 
 ### Preview
 
