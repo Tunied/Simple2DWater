@@ -30,7 +30,7 @@ and mark the sunlight texture warp mode to Clamp.
 
 ### More
 
-if you curiousness on how i made this shader ,please check more info on my [Blog](http://oldking.wang/7e726530-f07b-11e8-9356-679d14d5bec9/)
+if you curiousness on how i made this shader,please check more info on my [Blog](http://oldking.wang/7e726530-f07b-11e8-9356-679d14d5bec9/)
 
 
 
